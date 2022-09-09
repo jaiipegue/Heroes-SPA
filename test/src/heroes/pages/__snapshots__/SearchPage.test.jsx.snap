@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <SearchPage /> Debe de mostrarse correctamente con valores por defecto 1`] = `undefined`;
